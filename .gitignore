@@ -27,3 +27,6 @@ Thumbs.db
 
 .vscode/
 .idea/
+
+# personal notes (never committed)
+/me.md
